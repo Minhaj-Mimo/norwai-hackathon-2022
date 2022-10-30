@@ -1,1 +1,1 @@
-# norwai-hackathon-2022
+# To see the results run all cells.
